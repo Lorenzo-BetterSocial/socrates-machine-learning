@@ -27,12 +27,7 @@ We think that the solution should be based on these principles:
 * we should let think sociologiest, pycologhist, machine learning engenieering, and so on about what criteria are the best to create di recommendation algorithm inspiring by personal growth and researching the best for the person who use it.
 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+[Scuola di Atene]<img src="https://github.com/Lorenzo-BetterSocial/learning-machine-learning/blob/main/la-scuola-di-atene-raffaello-sanzio.jpg" width="600">
 
 This is how you create code examples:
 ```
