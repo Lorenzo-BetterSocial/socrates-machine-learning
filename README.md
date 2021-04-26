@@ -62,5 +62,5 @@ Any help will be appreciated.
 ## Acknowledgments
 
 * ancient greek philosophy
-* [Course of Building AI](https://buildingai.elementsofai.com/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* [Course of Building AI](https://buildingai.elementsofai.com/) 
 
