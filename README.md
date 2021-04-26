@@ -1,12 +1,13 @@
 # Project Title
 
-Socrate: a machine learning algorithm for learning and developing open mind people
+Socrate: a machine learning algorithm for learning and developing open minded people
 
 
 ## Summary
 
-We want to create a machine learning algorithm for recommendation content that help people to discover new, good, different, inspiring, beautiful things.
+We want to create a machine learning algorithm for recommendation content that help people to discover **new, good, different, inspiring, beautiful things.**
 An algorithm that doesn't reninforce congnitive bias, but help people to create a different vision of the world, based on different point of view, true sources, comparison, exploration. Inspired by personal (internal) growth and good and beutiful research.
+Building AI course project
 
 
 ## Background
@@ -61,6 +62,6 @@ Any help will be appreciated.
 
 ## Acknowledgments
 
-* ancient greek philosophy
+* Ancient greek philosophy
 * [Course of Building AI](https://buildingai.elementsofai.com/) 
 
