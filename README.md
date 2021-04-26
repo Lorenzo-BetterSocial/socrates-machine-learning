@@ -1,4 +1,4 @@
-# Project Title
+# Socrates, a recommendation algorithm
 
 Socrates: a machine learning algorithm for learning and developing open minded people
 
