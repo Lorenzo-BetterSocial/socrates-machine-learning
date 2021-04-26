@@ -62,6 +62,5 @@ Any help will be appreciated.
 ## Acknowledgments
 
 * ancient greek philosophy
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>[Course of Building AI](https://buildingai.elementsofai.com/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* [Course of Building AI](https://buildingai.elementsofai.com/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 
