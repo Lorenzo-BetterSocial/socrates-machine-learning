@@ -1,6 +1,6 @@
 # Project Title
 
-Socrate: a machine learning algorithm for learning and developing open minded people
+Socrates: a machine learning algorithm for learning and developing open minded people
 
 
 ## Summary
