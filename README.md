@@ -2,10 +2,12 @@
 
 Socrate: a machine learning algorithm for learning and developing open mind people
 
+
 ## Summary
 
 We want to create a machine learning algorithm for recommendation content that help people to discover new, good, different, inspiring, beautiful things.
 An algorithm that doesn't reninforce congnitive bias, but help people to create a different vision of the world, based on different point of view, true sources, comparison, exploration. Inspired by personal (internal) growth and good and beutiful research.
+
 
 ## Background
 
@@ -17,6 +19,7 @@ Too many times recommendation algorithm are based on wrong principles:
 I think these problems are widespread in all the most famous machine learning algorithm (amazon, facebook, google).
 It's very urgent to update these algorithm to avoid standardization in thinking, homologation and decreasing of analysis capapilities and well-reasoned personal opinions.
 
+
 ## How is it used?
 
 We think that the solution should be based on these principles:
@@ -27,50 +30,38 @@ We think that the solution should be based on these principles:
 * we should let think sociologiest, pycologhist, machine learning engenieering, and so on about what criteria are the best to create di recommendation algorithm inspiring by personal growth and researching the best for the person who use it.
 
 
-[Scuola di Atene]<img src="https://github.com/Lorenzo-BetterSocial/learning-machine-learning/blob/main/la-scuola-di-atene-raffaello-sanzio.jpg" width="600">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+[Scuola di Atene]
+<img src="https://github.com/Lorenzo-BetterSocial/learning-machine-learning/blob/main/la-scuola-di-atene-raffaello-sanzio.jpg" width="600">
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+The data should be collected inside the app where the algorithm runs.
+We shold connect date cross the user accounts.
+We should use some open database and crowl the internet (to collect "experts opinions")
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This algorithm do not solve the "usage" of what people do with a such powerful algorithm.
+We should use this algorithm only openly, people should access a dashboard and see all the criteria the algorithm uses and how.
+In all fields there are some "stupid or dangerous idea" (the heart is flat, for example). We should disingorage the spread of this idea without limit personal freedom. This balance is difficult to find.
+Maybe we should give some advice as "are you sure about that? Experts says...or your friend X think that...showing the opposit idea". To let people reflect better on that topic.
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+To start developing this idea we should find a field to test it. Maybe some app that use recommendation algorithm. 
+We should define a more detailed theory of the "good and well algorithm", putting toghert a team of psycologist, sociologist, engeneering, and so on to sum up the criteria to test.
+We should study the actual recommendation algorithm.
+We should define the tecnichal wa to apply our new criteria.
+We should create and test the algorithm.
+
+Any help will be appreciated.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
+* ancient greek philosophy
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+  <br>[Course of Building AI](https://buildingai.elementsofai.com/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+
